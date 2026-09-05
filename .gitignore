@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.npz
+*.pyc
+*.Zone.Identifier
+.venv/
+venv/

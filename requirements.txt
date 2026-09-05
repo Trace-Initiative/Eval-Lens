@@ -1,0 +1,9 @@
+torch
+transformers
+bitsandbytes
+accelerate
+numpy
+scikit-learn
+matplotlib
+datasets
+huggingface_hub
