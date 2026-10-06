@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preprint below."
+title: "Eval-Lens"
+type: software
+authors:
+  - family-names: "Singh"
+    given-names: "Karan"
+repository-code: "https://github.com/Trace-Initiative/Eval-Lens"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Content-Matched Is Not Lexically Matched: Text and Untrained-Network Baselines for Evaluation-Awareness Probing"
+  authors:
+    - family-names: "Singh"
+      given-names: "Karan"
+  year: 2026
+  month: 10
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23193081"
+  url: "https://doi.org/10.5281/zenodo.23193081"
+  notes: "Preprint"
